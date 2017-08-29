@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shopwise</string>
+    <string name="phone">Enter Phone Number</string>
+    <string name="verify">Verify</string>
+    <string name="otp">Sent OTP</string>
+    <string name="otp_ent">Enter OTP</string>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "913489023250",
+    "firebase_url": "https://shop-wise.firebaseio.com",
+    "project_id": "shop-wise",
+    "storage_bucket": "shop-wise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913489023250:android:cdfe4efd2a5630bd",
+        "android_client_info": {
+          "package_name": "com.geekco.shopwise.shopwise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913489023250-gjc2qcpjbnf42iu00apaj0fgu2ladbin.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geekco.shopwise.shopwise",
+            "certificate_hash": "47b4e47b5f6ab8c4d3532d7fc7ea992a81930b4e"
+          }
+        },
+        {
+          "client_id": "913489023250-5aggrqttmkl1ce8epovphqba9qnnobre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD_LFyzC-3KaR7OQTd96Ki6z1sAsdAZFc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913489023250-5aggrqttmkl1ce8epovphqba9qnnobre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
