@@ -4,4 +4,13 @@
     <string name="verify">Verify</string>
     <string name="otp">Sent OTP</string>
     <string name="otp_ent">Enter OTP</string>
+    <string name="error">Error</string>
+
+    <string name="title_activity_start">StartActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
+
